@@ -13,12 +13,13 @@ Three Address Code (output.tac)
 Assembly-like Code (output.asm)
 Supported features:
 
-Variable declaration and assignment
-Arithmetic operations
-Conditional statements (IFY / NOPE)
-Input and Output (ASK / SAY)
-Function definitions (DO) and function calls (CALL)
+Variable declaration and assignment 
+Arithmetic operations 
+Conditional statements (IFY / NOPE) 
+Input and Output (ASK / SAY) 
+Function definitions (DO) and function calls (CALL) 
 String and integer operations
+
 Developed By:
 Name: Mili Patel Roll Number: 22000902
 Name: Rishi Mathur Roll Number: 22000908
