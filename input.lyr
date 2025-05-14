@@ -1,0 +1,51 @@
+
+Set x = 10;
+Set y = 5;
+Say "Hello Lyricslang!";
+Set age = 20;
+Say age;
+
+Set sum = x + y;
+Set difference = x - y;
+Set product = x * y;
+Set quotient = x / y;
+Say sum;
+Say difference;
+Say product;
+Say quotient;
+Say "This is a string literal.";
+
+ify (x > y) {
+    Say 1;
+} Nope {
+    Say 0;
+} Done
+ify (y > x) {
+    Say 1;
+} Nope {
+    Say 0;
+} Done
+Set z = 0;
+ify (z == 0) {
+    Say 1;
+} Nope {
+    Say 0;
+} Done
+ify (z) {
+    Say 1;
+} Nope {
+    Say 0;
+} Done
+Set a = 1;
+ify (a) {
+    Say 1;
+} Nope {
+    Say 0;
+} Done
+
+Do greet () {
+    Say "Greetings!";
+} Done
+
+Ask age;
+Ask username;
