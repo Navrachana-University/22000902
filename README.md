@@ -20,7 +20,8 @@ Input and Output (ASK / SAY)
 Function definitions (DO) and function calls (CALL)
 String and integer operations
 Developed By:
-Name: RISHI MATHUR Roll Number: 22000908
+Name: Mili Patel Roll Number: 22000902
+Name: Rishi Mathur Roll Number: 22000908
 
 Files Included:
 
@@ -29,7 +30,7 @@ lyricslang.y → Syntax analyzer + code generation
 output.tac → Generated three-address code
 output.asm → Generated assembly-like code
 README.txt → Project documentation
-22000908_CD_LAB_MAUNUAL.docx → Lab manual
+22000902_CD_LAB_MAUNUAL.docx → Lab manual
 How to Compile and Run:
 
 Step 1: Install Flex and Bison (if not already installed) sudo apt install flex bison
